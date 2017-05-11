@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why software development?
-date:   2017-05-11 19:00:06 +0000
+date:   2017-05-11 15:00:07 -0400
 ---
 
 It was never clear what I wanted to do. I knew I liked drawing and art. I was always busy drawing in class when I should have been paying attention. It was just more fun to draw then listen to my teacher talk about math. I disliked math because I did not understand it, I preferred english class and sometimes history class. It wasn’t until later on in high school when I started to appreciate math a little more. I started to like the challenge of solving an equation.
