@@ -1,0 +1,21 @@
+# Site settings
+title: Road to learning programming
+header-img: img/home-bg.png
+email: soccer23415@gmail.com
+copyright_name: RonaldVilorio
+description: > # this means to ignore newlines until "baseurl:"
+  web dev
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  RonaldVilorio
+learn_profile: RonaldVilorio
+email_username: soccer23415@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
